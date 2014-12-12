@@ -1,7 +1,8 @@
 gettingdata
 ===========
 
-Git repository for Getting and Cleaning Data Coursera project
+Git repository for Getting and Cleaning Data Coursera project. The goal of this project is 
+to produce a tidy data set for later analysis.
 
 The data are as received from UCI and placed in the directory ../data/
 
